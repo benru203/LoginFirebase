@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter">Enter</string>
+    <string name="welcome">Welcome Home</string>
+    <string name="errorauth">Error auth</string>
+    <string name="error_empty">Fields are required</string>
+    <string name="create">Register</string>
+    <string name="register_success">Registered user successfully</string>
+</resources>

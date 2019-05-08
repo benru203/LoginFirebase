@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="enter">Iniciar</string>
+    <string name="welcome">Bienvenido a Inicio</string>
+    <string name="errorauth">Error de autenticación</string>
+    <string name="error_empty">Campos vacios</string>
+    <string name="create">Registro</string>
+    <string name="register_success">Usuario registrado con exito</string>
+</resources>
